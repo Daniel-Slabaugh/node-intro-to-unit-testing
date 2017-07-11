@@ -1,6 +1,6 @@
 const should = require('chai').should();
 
-const adder = require('../adder');
+const adder = require('../adder.js');
 
 
 // unit tests for our `adder` function
